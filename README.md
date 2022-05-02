@@ -1,2 +1,2 @@
-# sito1
+# sito
 Il mio primo sito web
